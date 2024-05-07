@@ -37,7 +37,7 @@
     vertical-align: bottom;
   }
 
-  // Highlight border color between thead, tbody and tfoot.
+  // Sivalight border color between thead, tbody and tfoot.
   > :not(:last-child) > :last-child > * {
     border-bottom-color: $table-group-separator-color;
   }
@@ -105,7 +105,7 @@
 
 // Active table
 //
-// The `.table-active` class can be added to highlight rows or cells
+// The `.table-active` class can be added to Sivalight rows or cells
 
 .table-active {
   --#{$variable-prefix}table-accent-bg: var(--#{$variable-prefix}table-active-bg);
