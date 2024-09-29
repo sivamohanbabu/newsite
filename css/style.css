@@ -36,6 +36,9 @@ h2,
 h3,
 .fw-bold {
     font-weight: 700 !important;
+    font-family: 'Poppins', 'Roboto', sans-serif;
+   
+
 }
 
 h4,
@@ -43,6 +46,8 @@ h5,
 h6,
 .fw-medium {
     font-weight: 500 !important;
+    font-family: 'Poppins', 'Roboto', sans-serif;
+   
 }
 
 
@@ -78,7 +83,10 @@ h6,
     border-radius: 50px;
 }
 
-
+body, p {
+    font-family: 'Lato', 'Open Sans', sans-serif;
+    font-weight: normal;
+}
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
     position: relative;
@@ -390,7 +398,8 @@ h6,
 }
 
 
-/*** Project Portfolio ***/
+/*** 
+ject Portfolio ***/
 #portfolio-flters .btn {
     position: relative;
     display: inline-block;
@@ -496,6 +505,7 @@ h6,
     font-weight: 900;
     margin-right: 10px;
 }
+
 
 .footer .btn.btn-link:hover {
     letter-spacing: 1px;
