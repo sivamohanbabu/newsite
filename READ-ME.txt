@@ -1,9 +1,0 @@
-  =>  Template Name    : Siva - IT Solutions Website Template
-
-  =>  Template Link    : https://htmlcodex.com/it-solutions-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : Siva Veludurthi
-
-  =>  Author Website   : https://htmlcodex.com
